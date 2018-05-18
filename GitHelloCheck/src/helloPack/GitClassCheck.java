@@ -3,7 +3,7 @@ package helloPack;
 
 public class GitClassCheck {
 	public void sample(){
-		System.out.println("Hello");
+		System.out.println("Hello git");
 	}
 
 }
